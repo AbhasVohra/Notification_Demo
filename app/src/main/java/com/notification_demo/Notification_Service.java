@@ -21,6 +21,7 @@ import java.util.TimerTask;
 public class Notification_Service extends Service {
 
     private Timer timer1;
+
     @Nullable
     @Override
     public IBinder onBind(Intent intent) {
