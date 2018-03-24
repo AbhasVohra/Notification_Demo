@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Operr Technologies, Inc</string>
+    <string name="qa">QA</string>
+    <string name="production">Production</string>
+</resources>
